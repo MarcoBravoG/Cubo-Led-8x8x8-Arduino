@@ -19,3 +19,6 @@ de no hacerlo te dara error por falta de estas librerias.
 
 datos del video en youtube
 https://www.youtube.com/watch?v=fHSWMoInmsQ
+
+link demostrativo 74HC595
+https://www.youtube.com/watch?v=2iMsbPo-Drg&ab_channel=ElectronicaLED
