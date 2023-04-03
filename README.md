@@ -57,3 +57,5 @@ https://www.youtube.com/watch?v=U5hCU3RdVBg&ab_channel=ELECTROALL
 
 visita nuestra pagina web www.electromark.org
 diagrama  pcb https://easyeda.com/editor#id=!11430e6a52d247dca5d9a42109653225
+
+videp guia https://www.youtube.com/watch?v=LA5ZYo4vZzg&ab_channel=JadsaTech
