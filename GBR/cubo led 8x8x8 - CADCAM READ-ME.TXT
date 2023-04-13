@@ -1,0 +1,66 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'cubo led 8x8x8.pdsprj'.
+CADCAM generated at 04:43:48 p. m. on lunes, 10 de abril de 2023.
+
+File List
+---------
+Top Copper              : cubo led 8x8x8 - CADCAM Top Copper.GBR
+Bottom Copper           : cubo led 8x8x8 - CADCAM Bottom Copper.GBR
+Top Silk Screen         : cubo led 8x8x8 - CADCAM Top Silk Screen.GBR
+Top Solder Resist       : cubo led 8x8x8 - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : cubo led 8x8x8 - CADCAM Bottom Solder Resist.GBR
+Mechanical 1            : cubo led 8x8x8 - CADCAM Mechanical 1.GBR
+Mechanical 2            : cubo led 8x8x8 - CADCAM Mechanical 2.GBR
+Top Assembly            : cubo led 8x8x8 - CADCAM Top Assembly.GBR
+Bottom Assembly         : cubo led 8x8x8 - CADCAM Bottom Assembly.GBR
+Drill                   : cubo led 8x8x8 - CADCAM Drill.DRL
+Netlist                 : cubo led 8x8x8 - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 4.3, metric, absolute, eob=*, LZO
+Bounds: -104.2mm -38.1mm 30.4mm 52.3mm
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	CIRCLE  D=2.286mm                                                         FLASH
+D11	CIRCLE  D=1.778mm                                                         FLASH
+D12	CIRCLE  D=0.203mm                                                         DRAW 
+D13	CIRCLE  D=1.016mm                                                         DRAW 
+D14	CIRCLE  D=1.524mm                                                         DRAW 
+D15	CIRCLE  D=1.27mm                                                          DRAW 
+D16	CIRCLE  D=1.778mm                                                         DRAW 
+D17	CIRCLE  D=0.254mm                                                         DRAW 
+D18	CIRCLE  D=2.54mm                                                          FLASH
+D19	CIRCLE  D=2.032mm                                                         FLASH
+D70	CIRCLE  D=0.914mm                                                         DRAW 
+D71	CIRCLE  D=0.178mm                                                         DRAW 
+D20	CIRCLE  D=0.507mm                                                         DRAW 
+D21	CIRCLE  D=0.085mm                                                         DRAW 
+D22	CIRCLE  D=0.11mm                                                          DRAW 
+D23	CIRCLE  D=0.711mm                                                         DRAW 
+D24	CIRCLE  D=0.127mm                                                         DRAW 
+D25	CIRCLE  D=0.064mm                                                         DRAW 
+
+NC Drill Setup
+--------------
+Format: Excellon, ASCII, 4.3, metric, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	1.016mm (0-15) Plated
+T02	1.27mm (0-15) Plated
+T03	0.762mm (0-15) Plated
+
+Layer Stackup
+-------------
+Top Solder Resist        : 0.01mm     Resist
+Top Copper               : 0.018mm    Copper
+Core                     : 1.55mm     FR4
+Bottom Copper            : 0.018mm    Copper
+Bottom Solder Resist     : 0.01mm     Resist
+
+
+[END OF FILE]
